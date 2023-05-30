@@ -1,5 +1,5 @@
 # Hi, I'm Prazual Karki! 👋
-## Full Stack Developer (MERN Stack) | Kathmandu,Nepal
+## Full Stack Developer (MERN) | Kathmandu,Nepal
 
 Welcome to my GitHub profile! I'm a passionate full stack developer with a strong focus on crafting innovative solutions and leveraging the latest technologies to build robust and efficient applications.
 
