@@ -31,7 +31,7 @@ I have worked with various clients and companies, developing full stack solution
 I enjoy sharing my knowledge and insights on full stack development. You can find articles and tutorials on my technical blog: [Blog Name](link).
 -->
 ### 📫 Contact Me
-Feel free to reach out to me for collaboration, feedback, or inquiries. You can contact me via email: prazualarki@gmail.com.
+Feel free to reach out to me for collaboration, feedback, or inquiries. You can contact me via email: prazualkarki@gmail.com.
 
 Let's connect and build amazing projects together!
 
