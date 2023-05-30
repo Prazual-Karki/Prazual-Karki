@@ -4,12 +4,12 @@
 Welcome to my GitHub profile! I'm a passionate full stack developer with a strong focus on crafting innovative solutions and leveraging the latest technologies to build robust and efficient applications.
 
 ### 🔧 Skills
-- Languages: <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px;">Javascript</button>
-- [Javascript] [Python] [Java]
-- Frameworks: React Js, Express Js (Node Js), 
-- Databases: MOngoDb, MySql
-- Tools & Technologies: 
+- Front-End Skills :   Html,Css,Javascript | React Js 
+- Bak-End skills:    Node Js | Python | Java
+- Design Framework :  Material Ui | Ant Design | Tailwind Css | Bootstrap
+- Databases:  MongoDb | MySql
 
+<!--
 ### 💼 Projects
 Here are a few highlights from my portfolio:
 
@@ -29,9 +29,9 @@ I have worked with various clients and companies, developing full stack solution
 
 ### ✍️ Technical Blog
 I enjoy sharing my knowledge and insights on full stack development. You can find articles and tutorials on my technical blog: [Blog Name](link).
-
+-->
 ### 📫 Contact Me
-Feel free to reach out to me for collaboration, feedback, or inquiries. You can contact me via email: [Your Email Address].
+Feel free to reach out to me for collaboration, feedback, or inquiries. You can contact me via email: prazualarki@gmail.com.
 
 Let's connect and build amazing projects together!
 
