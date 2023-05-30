@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm a passionate full stack developer with a strong focus on crafting innovative solutions and leveraging the latest technologies to build robust and efficient applications.
 
 ### 🔧 Skills
-- Languages: [![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png)]
+- Languages: [![Javascript]
 - Javascript, Python, Java
 - Frameworks: React Js, Express Js (Node Js), 
 - Databases: MOngoDb, MySql
