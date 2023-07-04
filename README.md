@@ -4,8 +4,8 @@
 Welcome to my GitHub profile! I'm a passionate full stack developer with a strong focus on crafting innovative solutions and leveraging the latest technologies to build robust and efficient applications.
 
 ### 🔧 Skills
-- Front-End Skills :   Html,Css,Javascript | React Js 
-- Bak-End skills:    Node Js | Python | Java
+- Front-End Skills :   Html,Css,Javascript | React Js | Next JS | Typescript
+- Bak-End skills:    Node Js | Python
 - Design Framework :  Material Ui | Ant Design | Tailwind Css | Bootstrap
 - Databases:  MongoDb | MySql
 
