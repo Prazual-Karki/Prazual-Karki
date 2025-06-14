@@ -1,13 +1,27 @@
 # Hi, I'm Prazual Karki! 👋
-## Front-End developer | Kathmandu,Nepal
+## Cybersecurity Enthusiast | Aspiring Penetration Tester | Kathmandu,Nepal
 
-Welcome to my GitHub profile! I'm a passionate front-end developer with a strong focus on crafting innovative solutions and leveraging the latest technologies to build robust and efficient applications.
+Welcome to my GitHub profile! I'm Prazual Karki, a cybersecurity enthusiast with a growing passion for penetration testing. My journey in tech began with a strong foundation in front-end development, which now complements my understanding of building and securing robust applications.
 
-### 🔧 Skills
-- Front-End Skills :   Html,Css,Javascript | React Js | Next JS | Typescript
-- Back-End skills:    Node Js 
-- Design Framework :  Material Ui | Ant Design | Tailwind Css | Bootstrap
-- Databases:  MongoDb
+This repository serves as a practical showcase of my hands-on projects in identifying, exploiting, and mitigating security vulnerabilities across various systems. My goal is to continually expand my expertise in offensive security and contribute to building a safer digital world.
+
+
+## 🛠️ Skills & Technologies
+
+**Cybersecurity:**
+* Web Application Penetration Testing
+* Network Penetration Testing
+* Vulnerability Assessment & Management
+* Exploitation & Post-Exploitation
+* Reporting & Remediation
+* OWASP Top 10, OWASP WSTG
+* CVSS, CWE, CVE
+* Tools: Burp Suite, Metasploit, Nmap, sqlmap, Nikto, Dirb
+
+* **Operating Systems:** Linux (Kali Linux), Windows
+* **Version Control:** Git, GitHub
+* **Programming Languages:** JavaScript, Python
+  
 
 <!--
 ### 💼 Projects
@@ -30,10 +44,10 @@ I have worked with various clients and companies, developing full stack solution
 ### ✍️ Technical Blog
 I enjoy sharing my knowledge and insights on full stack development. You can find articles and tutorials on my technical blog: [Blog Name](link).
 -->
-### 📫 Contact Me
-Feel free to reach out to me for collaboration, feedback, or inquiries. You can contact me via email: prazualkarki@gmail.com.
+## 👋 Let's Connect!
 
-Let's connect and build amazing projects together!
+
+* **Email:** prazualkarki@gmail.com
 
 <!--
 **Prazual-Karki/Prazual-Karki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
